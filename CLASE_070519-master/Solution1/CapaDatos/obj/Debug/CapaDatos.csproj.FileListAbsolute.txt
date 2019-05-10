@@ -1,0 +1,15 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Solution1\CapaDatos\bin\Debug\CapaDatos.dll
+c:\users\lab3\documents\visual studio 2013\Projects\Solution1\CapaDatos\bin\Debug\CapaDatos.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Solution1\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Solution1\CapaDatos\obj\Debug\CapaDatos.dll
+c:\users\lab3\documents\visual studio 2013\Projects\Solution1\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Lab3\Desktop\Solution1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Lab3\Desktop\Solution1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Lab3\Desktop\Solution1\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Solution1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Lab3\Desktop\Solution1\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Lab3\Desktop\CLASE_070519-master\Solution1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Lab3\Desktop\CLASE_070519-master\Solution1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Lab3\Desktop\CLASE_070519-master\Solution1\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\CLASE_070519-master\Solution1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Lab3\Desktop\CLASE_070519-master\Solution1\CapaDatos\obj\Debug\CapaDatos.pdb
